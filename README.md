@@ -5,7 +5,7 @@ i wrote a Travel-app which helps you to find the best destination for travelling
 
 ## this perfect website has : 
 
-An appealing hero section
+- An appealing hero section
 A camp section featuring various camps to explore
 An engaging travel guide section
 A complex feature-rich section
