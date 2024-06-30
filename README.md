@@ -8,8 +8,6 @@ i wrote a Travel-app which helps you to find the best destination for travelling
 - An appealing hero section
 - A camp section featuring various camps to explore
 - An engaging travel guide section
-- ![82e7337021b5447af4c91431e36b2057](https://github.com/parmiiida/travel-app/assets/130662273/6a586bd2-5718-4962-a8ff-6fa2e42bd1ee)
-
 - A complex feature-rich section
 - A call to action section for mobile apps
 - And a big footer section with many site and social links
@@ -19,3 +17,4 @@ i wrote a Travel-app which helps you to find the best destination for travelling
 - Tailwind CSS
 
 💻 [website live on](https://travel-app-chi-six.vercel.app)😊
+![travel_app](https://github.com/parmiiida/travel-app/assets/130662273/5c0c6ec1-62f5-43bb-b858-b42aba218878)
